@@ -1,3 +1,5 @@
+import React, { Component } from "react";
+
 class Item extends Component {
   render() {
     const { category } = this.props;
